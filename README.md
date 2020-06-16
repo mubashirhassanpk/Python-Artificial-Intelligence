@@ -43,7 +43,9 @@ A biography of one of the founders of CS and originator of the Turing test. Also
 •	The Emperor's New Mind : Concerning Computers, Minds, and the Laws of Physics and Shadows of the Mind : A Search for the Missing Science of Consciousness and The Large, the Small and the Human Mind by Roger Penrose
 A completely bogus argument against AI by a hopelessly Platonic mathematician. The last book contains an appended article by Stephen Hawking (a colleague of Penrose's) who of course doesn't buy his bogus argument. 
 http://www.amazon.com/exec/obidos/ASIN/0140145346
+
 http://www.amazon.com/exec/obidos/ASIN/0195106466/
+
 http://www.amazon.com/exec/obidos/ASIN/0521655382
 
 •	The Mind's New Science : A History of the Cognitive Revolution by Howard Gardner
@@ -52,7 +54,9 @@ A nice history of the development of cognitive science. http://www.amazon.com/ex
 •	How the Mind Works , The Language Instinct , and Words and Rules : The Ingredients of Language by Steven Pinker
 Fun reading on lots of interesting issues in modern Cognitive Science and Linguistics if you don't take his exaggerated beliefs in nativism and evolutionary psychology too seriously.
 http://www.amazon.com/exec/obidos/ASIN/0393318486
+
 http://www.amazon.com/exec/obidos/ASIN/0060976519
+
 http://www.amazon.com/exec/obidos/ASIN/0465072690
 
 •	Bots : The Origin of New Species by Andrew Leonard
