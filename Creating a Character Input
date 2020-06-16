@@ -7,7 +7,8 @@ too easy or too hard and hopefully in a few weeks, I’ll get the level right.
 Let’s get to it! I will start with the exercise and include a discussion later,
 in case you want the extra challenge.
 
-              Exercise 1 (and Solution)
+Exercise 1 (and Solution) https://www.practicepython.org/solution/2014/02/05/01-character-input-solutions.html
+
 Create a program that asks the user to enter their name and their age. Print out
 a message addressed to them that tells them the year that they will turn 100 years old.
 Extras:
@@ -16,16 +17,19 @@ out that many copies of the previous message. (Hint: order of operations exists 
 2.	Print out that many copies of the previous message on separate lines. 
 (Hint: the string "\n is the same as pressing the ENTER button)
 
-                  Discussion
+Discussion
+
 Concepts for this week:
 •	Getting user input
 •	Manipulating strings (a few ways)
 
 User input in Python
+
 To get user input in Python (3), the command you use is input(). Store the
 result in a variable, and use it to your heart’s content. Remember that the
 result you get from the user will be a string, even if they enter a number.
 For example,
+
 name = input("Give me your name: ")
 print("Your name is " + name)
 What this will print in the terminal (or the shell, whatever you are running Python in) will be:
